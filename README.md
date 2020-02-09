@@ -8,4 +8,4 @@ When you clikc generate (it only works if you have Analog Discovery plugged to y
 
 If you want to cheat just clik near Generate instead Generate button, you'll get always 6 grade :P
 
- ![](6grade.png)
+ ![](6grade.PNG)
